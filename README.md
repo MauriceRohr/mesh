@@ -5,6 +5,11 @@
 Perceiving Systems Mesh Package
 ===============================
 
+**Minor update of Makefile to make it work with python 3.8.17**
+
+**Original package source:** https://github.com/MPI-IS/mesh
+
+
 This package contains core functions for manipulating meshes and
 visualizing them.  It requires ``Python 3.5+`` and is supported on
 Linux and macOS operating systems.
